@@ -9,7 +9,7 @@ The cheat sheet is only intended as a fast refresher. If you want to discover di
 ## Spanish
 
 - [PDF: Diving cheat sheet](./es/diving_sheet_es.pdf)
-- [LaTeX: Diving cheat sheet](./es/diving_sheet_es.pdf)
+- [LaTeX: Diving cheat sheet](./es/diving_sheet_es.tex)
 
 # Contribution
 
