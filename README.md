@@ -1,6 +1,6 @@
 # Diving Cheat Sheets
 
-The goal of this cheat sheet is to contain all the basics of safe diving.
+The goal of this cheat sheet is to contain all the basics of safe diving (Open Water Level).
 
 ## WARNING
 
